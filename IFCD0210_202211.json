@@ -1,0 +1,247 @@
+{"curso":"IFCD0210",
+"fecha_inicio" : "2022-11-02",
+"empresa" : "Inkor",
+"tutor" : 
+    {"Nombre":"Alberto Mozo",
+        "email" : "albertomozodocente@gmail.com",
+        "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
+        "github" : "https://github.com/albertomozo",
+        "url" : "http://albertomozo.infinityfreeapp.com/"
+       
+    
+    },
+"alumnos" : [
+        {
+            "Nombre":"Sandra",
+            "email" : "sandralpm943@gmail.com",
+            "linked" : "https://www.linkedin.com/in/sandralopezmaldonado/",
+            "github" : "https://github.com/sandralpm943",
+            "url" : "http://peliculasanimenetflix.epizy.com/",
+            "imagen" : "obras.gif",
+            "descripcion" : "Peliculas animeNetflix trata de todos los animes que estan disponibles en netflix y poco más",
+            "inicio" : {
+            "html" : 1,
+            "css" : 1,
+            "JS" : 1,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            },
+            "fin" : {
+            "html" : 4,
+            "css" : 4,
+            "JS" : 4,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            }
+        },
+        {
+            "Nombre":"Duncan",
+            "email" : "duncan.guijo.fernandez@gmail.com",
+            "linked" : "https://www.linkedin.com/in/duncan-guijo-fern%C3%A1ndez-7601a015a/",
+            "github" : "https://github.com/DuncanGuijo",
+            "url" : "http://duncanguijo.infinityfreeapp.com/",
+            "imagen" : "obras.gif",
+            "descripcion" : "Página web de peliculas",
+            "inicio" : {
+            "html" : 1,
+            "css" : 1,
+            "JS" : 1,
+            "PHP" : 1,
+            "SQL" : 1,
+            "API" : 1
+            },
+            "fin" : {
+            "html" : 3,
+            "css" : 2,
+            "JS" : 3,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            }
+        },
+        {
+            "Nombre":"Albert Castillo Ortiz",
+            "email" : "castillo.ortiz.albert@gmail.com",
+            "linked" : "linkedin.com/in/alcaor",
+            "github" : "https://github.com/AlbertCastilloOrtiz",
+            "url" : "http://albertcastillo.infinityfreeapp.com/",
+            "imagen" : "obras.gif",
+            "descripcion" : "Web de cine Japonés",
+            "inicio" : {
+            "html" : 2,
+            "css" : 2,
+            "JS" : 1,
+            "PHP" : 1,
+            "SQL" : 2,
+            "API" : 1
+            },
+            "fin" : {
+            "html" : 1,
+            "css" : 1,
+            "JS" : 1,
+            "PHP" : 1,
+            "SQL" : 1,
+            "API" : 1
+            }
+        },
+        {
+            "Nombre":"Cristina",
+            "email" : "cristina.alvarezgc@gmail.com",
+            "linked" : "https://www.linkedin.com/in/calvarezgc/",
+            "github" : "https://github.com/calvarezgc",
+            "url" : "http://calvarezgc.infinityfreeapp.com/",
+            "imagen" : "obras.gif",
+            "descripcion" : "Pagina web de peliculas en las que se muestra una determinada cantidad de peliculas",
+            "inicio" : {
+            "html" : 4,
+            "css" : 4,
+            "JS" : 4,
+            "PHP" : 2,
+            "SQL" : 1,
+            "API" : 1
+            },
+            "fin" : {
+            "html" : 4,
+            "css" : 4,
+            "JS" : 4,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            }
+        },
+        {
+            "Nombre":"Javier Espinosa",
+            "email" : "tzrtzr@hotmail.com",
+            "linked" : "",
+            "github" : "https://github.com/TzKarmelo",
+            "url" : "http://tzkarmelo.great-site.net/PELICULAS/films_index.php",
+            "imagen" : "obras.gif",
+            "descripcion" : "Página con información de miles de películas...",
+            "inicio" : {
+            "html" : 1,
+            "css" : 1,
+            "JS" : 0,
+            "PHP" : 0,
+            "SQL" : 0,
+            "API" : 0
+            },
+            "fin" : {
+            "html" : 4,
+            "css" : 4,
+            "JS" : 4,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            }
+        },
+        {
+            "Nombre":"issac",
+            "email" : "tonifly2one@gmail.com",
+            "linked" : "https://www.linkedin.com/",
+            "github" : "https://github.com",
+            "url" : "aun no la tengo creada",
+            "imagen" : "obras.gif",
+            "descripcion" : "Descripción de vuestra web",
+            "inicio" : {
+            "html" : 1,
+            "css" : 1,
+            "JS" : 1,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            },
+            "fin" : {
+            "html" : 4,
+            "css" : 4,
+            "JS" : 4,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            }
+        },
+		{
+            "Nombre":"Axel",
+            "email" : "axelpineros@outlook.com",
+            "linked" : "https://www.linkedin.com/",
+            "github" : "https://github.com",
+            "url" : "http://holaaaaaa.infinityfreeapp.com/",
+            "imagen" : "obras.gif",
+            "descripcion" : "Descripción de vuestra web",
+            "inicio" : {
+            "html" : 1,
+            "css" : 1,
+            "JS" : 1,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            },
+            "fin" : {
+            "html" : 4,
+            "css" : 4,
+            "JS" : 4,
+            "PHP" : 3,
+            "SQL" : 2,
+            "API" : 2
+            }
+        },
+        {
+            "Nombre":"Valentina Rocio Puebla",
+            "email" : "rocio_jcc@hotmail.com",
+            "linked" : " ",
+            "github" : "https://github.com/rociopuebla",
+            "url" : "http://onlymovies.infinityfreeapp.com//",
+            "imagen" : "",
+            "descripcion" : "Web de selección de películas premiadas y aclamadas por la crítica",
+            "inicio" : {    
+                "html" : 0,
+                "css" : 0,
+                "JS" : 0,
+                "PHP" : 0,
+                "SQL" : 0,
+                "API" : 0
+            },
+            "fin" : {     
+                "html" : 3,
+                "css" : 3,
+                "JS" : 3,
+                "PHP" : 3,
+                "SQL" : 3,
+                "API" : 3
+            }
+        },
+        {
+            "Nombre":"Valentina Rocio Puebla",
+            "email" : "rocio_jcc@hotmail.com",
+            "linked" : " ",
+            "github" : "https://github.com/rociopuebla",
+            "url" : "http://onlymovies.infinityfreeapp.com//",
+            "imagen" : "",
+            "descripcion" : "Web de selección de películas premiadas y aclamadas por la crítica",
+            "inicio" : {    
+                "html" : 0,
+                "css" : 0,
+                "JS" : 0,
+                "PHP" : 0,
+                "SQL" : 0,
+                "API" : 0
+            },
+            "fin" : {     
+                "html" : 3,
+                "css" : 3,
+                "JS" : 3,
+                "PHP" : 3,
+                "SQL" : 3,
+                "API" : 3
+            }
+        }
+		
+        
+        
+        
+   
+     
+]
+}
+

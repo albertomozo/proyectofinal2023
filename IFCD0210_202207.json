@@ -1,0 +1,128 @@
+{"curso":"IFCD0210",
+"fecha_inicio" : "2022-07-24",
+"tutor" : 
+    {"Nombre":"Alberto Mozo",
+        "email" : "albertomozodocente@gmail.com",
+        "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
+        "github" : "https://github.com/albertomozo"
+       
+    
+    },
+"alumnos" : [
+        {
+            "Nombre":"German",
+            "email" : "Alumno1@gmail.com",
+            "linked" : "https://www.linkedin.com/",
+            "github" : "https://github.com",
+            "url" : "http://animate.rf.gd/",
+            "imagen" : "german.PNG",
+            "descripcion" : "Peliculas de anime. Disfruta de todos el manga japonés",
+            "inicio" : {    
+                "html" : 1,
+                "css" : 1,
+                "JS" : 1,
+                "Vue" : 3
+            },
+            "fin" : {     
+                "html" : 4,
+                "css" : 4,
+                "JS" : 4,
+                "Vue" : 4 
+            }
+        
+        },
+        {
+            "Nombre":"Fernando",
+            "email" : "Alumno1@gmail.com",
+            "linked" : "https://www.linkedin.com/",
+            "github" : "https://github.com",
+            "url" : "http://moviesucm.great-site.net/?i=1",
+            "imagen" : "fernando.PNG",
+            "descripcion" : "Las peliculas y series de Marvel en tu mano",
+            "inicio" : {    
+                "html" : 1,
+                "css" : 1,
+                "JS" : 1,
+                "Vue" : 3
+            },
+            "fin" : {     
+                "html" : 4,
+                "css" : 4,
+                "JS" : 4,
+                "Vue" : 4 
+            }
+        
+        },
+        {
+            "Nombre":"Andrea",
+            "email" : "Alumno1@gmail.com",
+            "linked" : "https://www.linkedin.com/",
+            "github" : "https://github.com",
+	        "url" : "http://andrea.great-site.net/?i=1",
+            "imagen" : "andrea.PNG",
+            "descripcion" : "Una visión del cine de los años 50 y 60",
+            "inicio" : {    
+                "html" : 1,
+                "css" : 1,
+                "JS" : 1,
+                "Vue" : 3
+            },
+            "fin" : {     
+                "html" : 4,
+                "css" : 4,
+                "JS" : 4,
+                "Vue" : 4 
+            }
+        
+        },		
+ 	{
+            "Nombre":"Roberto",
+            "email" : "Alumno1@gmail.com",
+            "linked" : "https://www.linkedin.com/",
+            "github" : "https://github.com",
+            "url" : "http://rob3rto.42web.io/index.php",
+            "imagen" : "roberto.PNG",
+            "descripcion" : "Una selección de cine de entrenimiento ",
+            "inicio" : {    
+                "html" : 1,
+                "css" : 1,
+                "JS" : 1,
+                "Vue" : 3
+            },
+            "fin" : {     
+                "html" : 4,
+                "css" : 4,
+                "JS" : 4,
+                "Vue" : 4 
+            }
+	  },
+	 
+        {
+            "Nombre":"Sofia",
+            "email" : "Alumno1@gmail.com",
+            "linked" : "https://www.linkedin.com/",
+            "github" : "https://github.com",
+            "url" : "http://sofia.infinityfreeapp.com/",
+            "imagen" : "sofia.PNG",
+            "descripcion" : "Una cuidada selección de peliculas",
+            "inicio" : {    
+                "html" : 1,
+                "css" : 1,
+                "JS" : 1,
+                "Vue" : 3
+            },
+            "fin" : {     
+                "html" : 4,
+                "css" : 4,
+                "JS" : 4,
+                "Vue" : 4 
+            }
+        
+        }
+        
+        
+   
+     
+]
+}
+

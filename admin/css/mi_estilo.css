@@ -1,0 +1,5 @@
+/* estilo para active en paginaciones */
+
+li .activeA {
+    color : #eec2d8;
+}

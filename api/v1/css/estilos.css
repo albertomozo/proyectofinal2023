@@ -1,0 +1,15 @@
+.get {
+    background-color: forestgreen;
+}
+
+.post{
+    background-color: blue;
+}
+
+.put {
+    background-color: darkorange;
+}
+
+.delete {
+    background-color: red;
+}

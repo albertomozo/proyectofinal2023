@@ -1,0 +1,17 @@
+
+RewriteEngine On
+# redireccionar paginas de error
+ErrorDocument 404 pagina404.html
+ErrorDocument 400 400.html
+# No permitir listar el directorio
+Options -Indexes 
+
+#RewriteRule / index.php
+RewriteRule ^post/([0-9]+)$ post.php?id=$1
+RewriteRule ^post post.php
+RewriteRule ^usuarios/([0-9]+)$ usuarios.php?id=$1 [QSA]
+#RewriteRule ^usuarios usuarios.php
+
+
+
+

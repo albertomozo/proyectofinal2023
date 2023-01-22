@@ -1,0 +1,60 @@
+Listado de rutas de carpetas para el volumen OS
+El n£mero de serie del volumen es 92CA-D6BE
+C:.
+ÃÄÄÄadmin
+³   ÃÄÄÄcss
+³   ÃÄÄÄimg
+³   ³   ÀÄÄÄperfil
+³   ÃÄÄÄjs
+³   ³   ÀÄÄÄdemo
+³   ÃÄÄÄlog
+³   ÃÄÄÄscss
+³   ³   ÃÄÄÄnavs
+³   ³   ÀÄÄÄutilities
+³   ÀÄÄÄvendor
+³       ÃÄÄÄbootstrap
+³       ³   ÃÄÄÄjs
+³       ³   ÀÄÄÄscss
+³       ³       ÃÄÄÄmixins
+³       ³       ÃÄÄÄutilities
+³       ³       ÀÄÄÄvendor
+³       ÃÄÄÄchart.js
+³       ÃÄÄÄdatatables
+³       ÃÄÄÄfontawesome-free
+³       ³   ÃÄÄÄcss
+³       ³   ÃÄÄÄjs
+³       ³   ÃÄÄÄless
+³       ³   ÃÄÄÄmetadata
+³       ³   ÃÄÄÄscss
+³       ³   ÃÄÄÄsprites
+³       ³   ÃÄÄÄsvgs
+³       ³   ³   ÃÄÄÄbrands
+³       ³   ³   ÃÄÄÄregular
+³       ³   ³   ÀÄÄÄsolid
+³       ³   ÀÄÄÄwebfonts
+³       ÃÄÄÄjquery
+³       ÀÄÄÄjquery-easing
+ÃÄÄÄcss
+ÃÄÄÄimg
+ÃÄÄÄjs
+ÃÄÄÄlib
+³   ÃÄÄÄanimate
+³   ÃÄÄÄcounterup
+³   ÃÄÄÄeasing
+³   ÃÄÄÄisotope
+³   ÃÄÄÄlightbox
+³   ³   ÃÄÄÄcss
+³   ³   ÃÄÄÄimages
+³   ³   ÀÄÄÄjs
+³   ÃÄÄÄowlcarousel
+³   ³   ÀÄÄÄassets
+³   ÃÄÄÄwaypoints
+³   ÀÄÄÄwow
+ÀÄÄÄscss
+    ÀÄÄÄbootstrap
+        ÀÄÄÄscss
+            ÃÄÄÄforms
+            ÃÄÄÄhelpers
+            ÃÄÄÄmixins
+            ÃÄÄÄutilities
+            ÀÄÄÄvendor
