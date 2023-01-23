@@ -18,7 +18,7 @@ $headDescription = 'Página de peliculas estupenda'; // meta
 $headKeywords = 'peliculas, films, series'; // meta description
 $headAutor = 'Alberto Mozo'; 
 $pagina = $_SERVER['SCRIPT_NAME'];
-
+$logaccion = '-'; // variable para incluir accion  a guardar en fichero log inc_logaccesos.php
 /* variables para el manejo de grupos de formación */
 $grupos = ['IFCD0210_2022207.json','IFCD0210_2022211.json','IFCD0210_202211.txt','IFCD0210_202207.txt'];
 

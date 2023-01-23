@@ -13,6 +13,8 @@ $headKeywords .="";
 $menugrupo = 'pelis';
 $menuenlace = 'generos';
 include("inc_head.php");
+$logaccion ='genero-accion1';
+include("./admin/inc_logaccesos.php");
 ?>
 </head>
 
