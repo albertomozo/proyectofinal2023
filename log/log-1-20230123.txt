@@ -1,3 +1,0 @@
-2023/01/23 03:09:04;/infinity/generos.php;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0;1;1674461344;genero-accion1
-2023/01/23 04:51:58;/infinity/generos.php;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0;1;1674467518;genero-accion1
-2023/01/23 11:23:16;/infinity/generos.php;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61;1;1674490996;genero-accion1
