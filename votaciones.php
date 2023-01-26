@@ -13,10 +13,10 @@ class Votacion{
 	private $usuario     = 'root';
 	private $clave       = '';
 	private $basededatos = 'peliculas';
-/* 	private $host        = 'sql305.epizy.com'; */
-/* 	private $usuario     = 'epiz_30918323'; */
-/* 	private $clave       = 'MI6hODcUFSm'; */
-/* 	private $basededatos = 'epiz_30918323_peliculas'; */
+/* 	private $host        = '*******'; */
+/* 	private $usuario     = '********'; */
+/* 	private $clave       = '*******'; */
+/* 	private $basededatos = '********'; */
 	public  $db;
 
 
