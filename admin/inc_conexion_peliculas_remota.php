@@ -1,8 +1,8 @@
 <?php
-$servidor="sql305.epizy.com";
-$bduser="epiz_30918323";
-$bdclave="MI6hODcUFSm";
-$bdnombre="epiz_30918323_peliculas";
+$servidor="*****";
+$bduser="******";
+$bdclave="******";
+$bdnombre="*********";
 $conpel=mysqli_connect($servidor,$bduser,$bdclave,$bdnombre);
 if ($conpel){
     mysqli_set_charset($conpel,"utf8");
