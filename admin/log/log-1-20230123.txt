@@ -23,3 +23,5 @@
 2023/01/23 11:07:31;/infinity/admin/peliculas.php;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0;1;1674490051;-
 2023/01/23 11:22:03;/infinity/admin/peliculas.php;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61;1;1674490923;-
 2023/01/23 11:24:16;/infinity/admin/pelicuLAS.PHP;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61;1;1674491056;-
+2023/01/23 15:11:06;/infinity/admin/login_acceso.php;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0;1;1674504666;
+2023/01/23 15:11:06;/infinity/admin/peliculas.php;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0;1;1674504666;-

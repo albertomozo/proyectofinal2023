@@ -11,6 +11,7 @@ $sitioRutaLocal = '/infinity/'; // si la aplicación  no esta directamente coloc
 $rutaImagenes = '/imagenes/'; // carpeta donde guarderemos las imagenes 
 $rutaImagenesPerfil='admin/img/perfil/';// carpeta donde se guardan las fotos de perfil de los usuarios
 $rutaLog = '/infinity/admin/log/';
+$rutaLogPub = '/infinity/log/';
 $rutaModelomail = 'admin/';
 /* definicion de variables del head */
 $headTitle = $sitioTitulo; // para cambiarlo añadir la variable en el fichero particular;

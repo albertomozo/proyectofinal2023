@@ -69,7 +69,7 @@
                         <h6 class="collapse-header">Usuarios :</h6>
                         <a class="collapse-item <?php if ($menuenlace == 'listausuarios') {echo 'active'; }?>" href="usuarios.php">usuarios</a>
                         <a class="collapse-item <?php if ($menuenlace == 'conexiones') {echo 'active'; }?>" href="conexiones.php">conexiones</a>
-                        <a class="collapse-item <?php if ($menuenlace == 'a2') {echo 'active'; }?>" href="actores2.php">actores 2</a>
+                        <a class="collapse-item <?php if ($menuenlace == 'conexiones2') {echo 'active'; }?>" href="conexiones2.php">Con. Publica</a>
                        
                     </div>
                 </div>
