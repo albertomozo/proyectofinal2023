@@ -40,11 +40,11 @@ $mailheaders .= "Reply-To: albertomozodocente@gmail.com\r\n";
 $mailheaders .= "X-Mailer: PHP/".phpversion();// 4 parametro de mail se define como se envia el texto
      
 /* variables para el envio de correo con PHPMailer */
-$MailerMail = 'albertomozodesarrollador@gmail.com';// MAil para USERNAME, FROM, REPLY
+$MailerMail = 'your mail';// MAil para USERNAME, FROM, REPLY
 $MailerDebug = 'SMTP::DEBUG_SERVER';
 $MailerHost = 'smtp.gmail.com';
 $MailerUsername = $MailerMail;
-$MailerPassword = 'llkauovkgcjbrxfz';
+$MailerPassword = 'your password';
 $MailerFrom = $MailerMail;
 $MailerReply = $MailerMail;
 
