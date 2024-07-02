@@ -45,7 +45,7 @@ $MailerMail = 'albertomozodesarrollador@gmail.com';// MAil para USERNAME, FROM, 
 $MailerDebug = 'SMTP::DEBUG_SERVER';
 $MailerHost = 'smtp.gmail.com';
 $MailerUsername = $MailerMail;
-$MailerPassword = 'llkauovkgcjbrxfz';
+$MailerPassword = '*****************';
 $MailerFrom = $MailerMail;
 $MailerReply = $MailerMail;
 
